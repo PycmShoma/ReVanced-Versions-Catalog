@@ -1,10 +1,10 @@
 [
   {
     "Version": "18.99.99",
-    "Patches version": "9.999.9",
+	"Patches version": "9.999.9",
     "Build date": "04.09.23",
     "Changelog link": "https://github.com/PycmShoma/ReVanced-Versions-Catalog/raw/test/YouTube/18.99.99/Changelog.md",
-    "Versions list": "https://raw.githubusercontent.com/PycmShoma/ReVanced-Versions-Catalog/test/YouTube/18.99.99/Catalog.json"
+    "Versions list": "https://github.com/PycmShoma/ReVanced-Versions-Catalog/raw/test/YouTube/18.99.99/Catalog.json"
   },
   {
     "Version": "18.34.37",
